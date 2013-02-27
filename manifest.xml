@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
+	<name>Feeligo GiftBar</name>
+	<author>Feeligo</author>
+	<version>1.8</version>
+	<category>bundled</category>
+	<category>content</category>
+	<category>widget</category>
+	<blurb>The Feeligo GiftBar is the new way to engage and monetize your Elgg-based community site.</blurb>
+	<description>
+		This plugin instantly enables your members to buy virtual gifts and send them to their peers on your site. It works by adding the GiftBar, the application which shows the gifts received by each member and lets them send gifts to their friends. You can customize the catalog of gifts for your members by signing in on your Dashboard at http://www.feeligo.com/dashboard.
+	</description>
+	<website>http://www.feeligo.com/elgg</website>
+	<copyright>Feeligo</copyright>
+	<license>GPLv3</license>
+	<requires>
+		<type>elgg_release</type>
+		<version>1.8</version>
+	</requires>
+	<activate_on_install>true</activate_on_install>
+</plugin_manifest>
